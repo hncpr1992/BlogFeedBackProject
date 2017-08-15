@@ -4,7 +4,7 @@ Analysis of BlogFeedback Data Set
 
 
 ## Project target
-Predict the number of comments in a blog after the bastime
+Predict the number of comments in a blog after the basetime
 
 ## Data Description
 The data used here is BlogFeedback Data Set from UCI https://archive.ics.uci.edu/ml/datasets/BlogFeedback<br>
